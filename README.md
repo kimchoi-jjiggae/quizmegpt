@@ -1,5 +1,7 @@
 # quizmegpt
 
+Video demo here: https://twitter.com/kimchoi_jjiggae/status/1652355091817545733
+
 This project is a fun way to generate short-answer test questions based on a given document and evaluate a student's response to the question by giving feedback. It uses various language models and algorithms to perform the following tasks:
 
 - Load a document from a PDF file using PyPDFLoader
